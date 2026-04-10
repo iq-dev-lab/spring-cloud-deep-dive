@@ -400,6 +400,6 @@ Made with ❤️ by [Dev Book Lab](https://github.com/dev-book-lab)
 
 <br/>
 
-*"Config Server를 쓰는 것과, 설정이 어떻게 동적으로 리프레시되는지 아는 것은 다르다"*
+**"Config Server를 쓰는 것과, 설정이 어떻게 동적으로 리프레시되는지 아는 것은 다르다"**
 
 </div>
